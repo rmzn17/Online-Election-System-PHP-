@@ -1,0 +1,3 @@
+# Online-Election-System-PHP-
+ This is Online Election System. In this system people who have account can give his/her vote online without going to any physical polling station.there is a database which maintained in which all names of voter and candidate with complete information is stored. he/she has to be registered first for him/her to vote.in this system there was two panel admin and voter. admin will handle all activities can delete any candidate or voter from this system. admin will set the election.one voter can give only one vote.
+Tools and Technology: PHP,MYSQL,JAVASCRIPT,BOOTSTRAP,HTML,CSS
